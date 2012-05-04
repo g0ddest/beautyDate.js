@@ -19,4 +19,5 @@ Usage
 Installation
 ------------
 
-Просто добавьте <script src="beatydate.js"/> в ваш html-код.
+Просто добавьте в ваш html-код.
+    <script src="beatydate.js"/>
