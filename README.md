@@ -1,4 +1,4 @@
-beatyDate.js (rus)
+beautyDate.js (rus)
 ==================
 
 Русская локализация с доработкой плагина <a href="http://ejohn.org/blog/javascript-pretty-date/">John Resig</a>.
